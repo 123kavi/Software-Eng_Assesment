@@ -6,3 +6,7 @@
 * The relevant user can log into the system using the temporary password and the relevant email.  After logging in, user will be directly redirected to the registration page.  user can reset the temporary password by using his relevant information and a new password on the registration page.  Immediately after reset he will log out again.
 * There is a separate task for users to log into the system.  Then when an admin user logs in, he is redirected to an admin page and a user who logs in as a student is redirected to the student page.  Accordingly, user has the ability to create a user in the admin page. 
 *  A user who is logged in as a student has his relevant task.  Accordingly, he has the ability to create new notes.  It is possible to delete, update and view those notes.  All notes created in this way are shown as a list in a table.  One page contains 5 notes.can view other notes using pagination option
+
+
+
+https://github.com/123kavi/Software-Eng_Assesment/issues/1#issue-1318320005
